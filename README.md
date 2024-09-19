@@ -10,7 +10,7 @@ read num3
 echo "Digite o quarto numero: "
 read num4
 
-echo "Escolha uma operação: + - * /"
+echo "Escolha uma operação: + 
 read op
 
 case $op in
